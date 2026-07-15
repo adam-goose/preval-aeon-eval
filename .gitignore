@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.DS_Store
+Thumbs.db
+
+# Local data and generated outputs
+/data/raw/
+/data/processed/
+/results/
+/output/
