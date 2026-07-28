@@ -3,8 +3,8 @@
 ## Objective
 
 The runtime comparison was performed to check that porting the standalone
-`PreVal` implementation into aeon's `PreValClassifier` did not introduce a
-significant computational regression. This was a parity-oriented timing check,
+`PreVal` implementation into aeon's `PrevalidatedRidgeClassifier` did not
+introduce a significant computational regression. This was a parity-oriented timing check,
 not a general performance benchmark or comparison against other classifiers.
 
 ## Method

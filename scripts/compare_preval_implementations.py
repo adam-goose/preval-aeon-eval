@@ -11,7 +11,7 @@ import numpy as np
 def _load_implementations(aeon_repo):
     """Load the aeon classifier and its local read-only reference module."""
     sys.path.insert(0, str(aeon_repo))
-    from aeon.classification.sklearn import PreValClassifier
+    from aeon.classification.sklearn import PrevalidatedRidgeClassifier
 
     reference_path = aeon_repo / "aeon" / "classification" / "sklearn" / "preval.py"
     if not reference_path.is_file():
@@ -22,7 +22,7 @@ def _load_implementations(aeon_repo):
         raise ImportError(f"Could not load reference implementation: {reference_path}")
     reference_module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(reference_module)
-    return reference_module.PreVal, PreValClassifier
+    return reference_module.PreVal, PrevalidatedRidgeClassifier
 
 
 def _make_case(name, seed, n, p, n_classes, labels, lambdas, feature_kind="random"):

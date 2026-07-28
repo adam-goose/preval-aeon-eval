@@ -1,4 +1,4 @@
-"""Benchmark standalone PreVal against the aeon PreValClassifier."""
+"""Benchmark standalone PreVal against the aeon PrevalidatedRidgeClassifier."""
 
 import argparse
 import time

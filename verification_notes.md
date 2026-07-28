@@ -2,8 +2,8 @@
 
 ## Overview
 
-The aeon `PreValClassifier` was verified by direct parity testing against the
-original standalone `PreVal` implementation. In every test, both implementations
+The aeon `PrevalidatedRidgeClassifier` was verified by direct parity testing
+against the original standalone `PreVal` implementation. In every test, both implementations
 were fitted using separate copies of the same input arrays and the same lambda
 grid. Their fitted parameters and prediction outputs were then compared using
 exact equality.
