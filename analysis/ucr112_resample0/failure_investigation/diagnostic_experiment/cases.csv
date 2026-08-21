@@ -1,0 +1,9 @@
+dataset,transform,role,original_accuracy_change
+NonInvasiveFetalECGThorax1,MiniRocket,primary clipped-tie failure,-0.7826972010
+NonInvasiveFetalECGThorax2,MiniRocket,matched non-collapse control,-0.0188295165
+ArrowHead,MultiRocket,small three-class catastrophic failure,-0.5657142857
+HandOutlines,MultiRocket,binary catastrophic failure,-0.3027027027
+NonInvasiveFetalECGThorax1,MultiRocket,primary catastrophic failure,-0.9002544529
+NonInvasiveFetalECGThorax2,MultiRocket,matched catastrophic failure,-0.8987277354
+EOGVerticalSignal,MultiRocket,moderate-class broader failure,-0.2596685083
+FaceFour,MultiRocket,small positive-effect control,0.0340909091
