@@ -30,4 +30,4 @@ python summarise_results.py --results-dir results --output-dir summary
 
 ## Status
 
-The diagnostic core passed a local synthetic high-dimensional/dual-space smoke test. A local target run was not practical in the current editable aeon environment: importing the transform stack remained CPU-bound for several minutes, and the Thorax datasets were not locally cached. No target-case evidence has therefore been fabricated; the Iridis package is ready for execution.
+The four first-wave cases have completed and are analysed in `first_wave_report.md`. Their copied raw results remain under the repository-level `data/` tree; reproducible processed tables are generated under `summary/`. The first wave identifies uncentred float32 eigendecomposition as the shared numerical failure and clipped-softmax tie-breaking as an additional Thorax1 failure. No production estimator changes have been made.

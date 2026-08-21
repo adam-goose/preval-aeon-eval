@@ -1,4 +1,7 @@
-# Diagnostic experiment status and interpretation
+# Diagnostic experiment design and pre-run interpretation
+
+> Historical planning document. The first-wave run is now complete; see
+> `first_wave_report.md` for results and conclusions.
 
 ## What has been implemented
 
