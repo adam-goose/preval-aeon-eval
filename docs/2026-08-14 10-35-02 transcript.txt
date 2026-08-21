@@ -1,0 +1,589 @@
+Full Transcript
+
+Video: 2026-08-14 10-35-02.mp4
+
+Speaker: Speaker 1
+
+
+
+[00:00:00] Speaker 1: Right, so we're talking about quality of project.
+
+[00:00:04] Speaker 1: Do you know what I mean?
+
+[00:00:04] Speaker 1: It's not like binary, you must do that,
+
+[00:00:07] Speaker 1: you mustn't do that.
+
+[00:00:08] Speaker 1: So it is all just on the scale.
+
+[00:00:09] Speaker 1: The other thing in terms of your experiments
+
+[00:00:13] Speaker 1: that mark, that can reduce the mark
+
+[00:00:18] Speaker 1: is if you just chuck a load of numbers
+
+[00:00:21] Speaker 1: and don't really, and just go like,
+
+[00:00:23] Speaker 1: you know, you've got research questions,
+
+[00:00:24] Speaker 1: but one is answering those questions well, okay,
+
+[00:00:29] Speaker 1: running good experiments,
+
+[00:00:30] Speaker 1: but then trying to explain a bit why.
+
+[00:00:34] Speaker 1: All right, why does one approach work better than another?
+
+[00:00:36] Speaker 1: Now that can get a bit heavy with it.
+
+[00:00:38] Speaker 1: I'm terrible at doing this
+
+[00:00:39] Speaker 1: because it tends to be less scientific, right?
+
+[00:00:42] Speaker 1: But second mark has tend to love this, right?
+
+[00:00:46] Speaker 1: Because it gives them something to latch onto, right?
+
+[00:00:48] Speaker 1: So come up with an idea, well, this does well,
+
+[00:00:50] Speaker 1: but it fails in this scenario.
+
+[00:00:51] Speaker 1: This could be because of a data characteristics,
+
+[00:00:54] Speaker 1: so you could break things down by series length
+
+[00:00:57] Speaker 1: or number of cases or something like that,
+
+[00:00:59] Speaker 1: or it could be because of problem domain.
+
+[00:01:01] Speaker 1: And if you read our papers,
+
+[00:01:02] Speaker 1: we often break things down like that.
+
+[00:01:05] Speaker 1: Yes, so you have standard, you know, further on.
+
+[00:01:08] Speaker 1: What I'm saying is a little bit deeper analysis,
+
+[00:01:09] Speaker 1: the results, trying to avoid like,
+
+[00:01:12] Speaker 1: I've ported this code over,
+
+[00:01:14] Speaker 1: I ran these experiments and there you go.
+
+[00:01:17] Speaker 1: All right, it needs to make it a bit more nuanced than that.
+
+[00:01:25] Speaker 1: Probably, yeah.
+
+[00:01:26] Speaker 1: I mean, there'll be like the thing with the vibes to do,
+
+[00:01:32] Speaker 1: firstly, don't assume the external examiner
+
+[00:01:34] Speaker 1: has any idea of any of my work,
+
+[00:01:38] Speaker 1: because they won't have,
+
+[00:01:39] Speaker 1: they won't even know what time to do classification is.
+
+[00:01:41] Speaker 1: They don't know any of that, right?
+
+[00:01:43] Speaker 1: You're reading it and you're thinking it's all,
+
+[00:01:46] Speaker 1: to them it's just like, I go into their stuff
+
+[00:01:48] Speaker 1: and I go, I don't have no idea what you're talking about.
+
+[00:01:50] Speaker 1: So you might get asked, it depends on the examiner,
+
+[00:01:55] Speaker 1: you might get asked some pretty questions
+
+[00:01:58] Speaker 1: that seem a bit like fundamentally beginning,
+
+[00:02:02] Speaker 1: what's the point of all this?
+
+[00:02:03] Speaker 1: Why don't you just use that thing over there
+
+[00:02:05] Speaker 1: and you go, ah, what?
+
+[00:02:06] Speaker 1: Because there's always literature that says,
+
+[00:02:09] Speaker 1: but they don't come in like that.
+
+[00:02:10] Speaker 1: So you might get questions like that,
+
+[00:02:12] Speaker 1: then you'll probably get questions,
+
+[00:02:14] Speaker 1: as I say, about your understanding of what you've done.
+
+[00:02:17] Speaker 1: What I would focus, what's the best approach,
+
+[00:02:19] Speaker 1: mind you, for this type of project,
+
+[00:02:21] Speaker 1: some projects build a tool and make a thing,
+
+[00:02:23] Speaker 1: is focus on research questions.
+
+[00:02:26] Speaker 1: Yeah, and we want it to investigate what the weakness is.
+
+[00:02:31] Speaker 1: Yeah, that these fast classifiers
+
+[00:02:34] Speaker 1: are rubbish at probabilistic estimates.
+
+[00:02:36] Speaker 1: What the solution is, well, this one has been proposed
+
+[00:02:41] Speaker 1: and it's just been published very current,
+
+[00:02:43] Speaker 1: but it's not been evaluated, as far as I'm aware,
+
+[00:02:47] Speaker 1: in its main usage.
+
+[00:02:51] Speaker 1: And then, and therefore, here's the evaluation,
+
+[00:02:53] Speaker 1: does it work?
+
+[00:02:55] Speaker 1: Why does it work?
+
+[00:02:57] Speaker 1: See, yeah, so sort of just keeping your main story
+
+[00:03:01] Speaker 1: of your project in your head,
+
+[00:03:04] Speaker 1: so you can revert back to it,
+
+[00:03:05] Speaker 1: if you get a question which makes no sense to you.
+
+[00:03:11] Speaker 1: Well, it's, who's your second marker?
+
+[00:03:14] Speaker 1: I don't know.
+
+[00:03:15] Speaker 1: I haven't looked at any of this,
+
+[00:03:16] Speaker 1: because I'm sort of, I'm still in the summer holiday mode.
+
+[00:03:18] Speaker 1: I know I paid it.
+
+[00:03:21] Speaker 1: So what I suggest you do is look them up
+
+[00:03:25] Speaker 1: and send them an email.
+
+[00:03:26] Speaker 1: It seems to be in Southampton,
+
+[00:03:28] Speaker 1: the policy of you contact your second examiner.
+
+[00:03:32] Speaker 1: Some people like to have a chat
+
+[00:03:33] Speaker 1: about their project beforehand.
+
+[00:03:36] Speaker 1: And that can be useful,
+
+[00:03:37] Speaker 1: because they'll give you pointers
+
+[00:03:38] Speaker 1: for what they're looking for.
+
+[00:03:39] Speaker 1: So I think this is an attempt by Southampton.
+
+[00:03:42] Speaker 1: Again, I'm just observing.
+
+[00:03:45] Speaker 1: No one tells you any of this.
+
+[00:03:47] Speaker 1: There's no actual policy, it's just evolved.
+
+[00:03:50] Speaker 1: But that does give you a chance to see what they expect.
+
+[00:03:52] Speaker 1: Now, they may say things that make you question
+
+[00:03:55] Speaker 1: the whole thing.
+
+[00:03:56] Speaker 1: They're like, oh, why didn't you try it on robots?
+
+[00:03:59] Speaker 1: I think they're like, I'm not working with robots,
+
+[00:04:02] Speaker 1: but it is useful pre-warning of their biases.
+
+[00:04:07] Speaker 1: They're probably great.
+
+[00:04:08] Speaker 1: I don't wanna put you off.
+
+[00:04:09] Speaker 1: I'm just giving you context, right?
+
+[00:04:12] Speaker 1: I mean, it will be fine, but pre-armed is pre-warned.
+
+[00:04:30] Speaker 1: Yeah, yeah, yeah.
+
+[00:04:41] Speaker 1: I mean, if you wanna draft your results,
+
+[00:04:43] Speaker 1: I'm happy to look at them,
+
+[00:04:44] Speaker 1: and it's easier for me to comment once I see,
+
+[00:04:48] Speaker 1: because there's a certain narrative of results, right?
+
+[00:04:51] Speaker 1: And that guides where you look after.
+
+[00:04:54] Speaker 1: If it's universally better,
+
+[00:04:56] Speaker 1: then that just really is confirming the paper.
+
+[00:04:59] Speaker 1: If it's not, then you're gonna go, well, why isn't it?
+
+[00:05:01] Speaker 1: It's the follow-up questions, really.
+
+[00:05:03] Speaker 1: So your headline results are run like,
+
+[00:05:05] Speaker 1: as an experiment, independent, here it is,
+
+[00:05:08] Speaker 1: that's then digging down into it.
+
+[00:05:11] Speaker 1: We always have like an analysis section.
+
+[00:05:13] Speaker 1: So you have your results section in the analysis
+
+[00:05:15] Speaker 1: that sort of says what's going on under the hood.
+
+[00:05:18] Speaker 1: And that might include some sensitive people,
+
+[00:05:21] Speaker 1: like sensitivity analysis, parameter sensitivity,
+
+[00:05:24] Speaker 1: you know, one one could,
+
+[00:05:26] Speaker 1: but all of that, you need the big picture.
+
+[00:05:28] Speaker 1: Then the second wave can be,
+
+[00:05:31] Speaker 1: that is a common thing of how,
+
+[00:05:34] Speaker 1: if it's parameterized to tuning help,
+
+[00:05:37] Speaker 1: you don't have to rerun the whole lot,
+
+[00:05:39] Speaker 1: you just pick one classifier, the core one.
+
+[00:05:43] Speaker 1: And if it's making probability, you know, whatever,
+
+[00:05:46] Speaker 1: it depends on how it forms,
+
+[00:05:48] Speaker 1: then you might try tuning it.
+
+[00:05:50] Speaker 1: You might see how sensitive is parameters,
+
+[00:05:54] Speaker 1: you run for different parameter values,
+
+[00:05:55] Speaker 1: see if it breaks, you know,
+
+[00:05:56] Speaker 1: that's the sort of thing that people look for.
+
+[00:05:59] Speaker 1: But that's, and then it would be like,
+
+[00:06:02] Speaker 1: you know, some explanation for why that happens,
+
+[00:06:05] Speaker 1: you know, it might degrade into unsolution or whatever.
+
+[00:06:15] Speaker 1: Yeah, what have you done?
+
+[00:06:25] Speaker 1: So I'm not sure where you are with that.
+
+[00:06:29] Speaker 1: Have you got any results or?
+
+[00:06:36] Speaker 1: Okay, so run them off,
+
+[00:06:40] Speaker 1: AGB-HG2 branch.
+
+[00:06:43] Speaker 1: All right, so that's got the latest fast versions
+
+[00:06:46] Speaker 1: of our classifiers.
+
+[00:06:52] Speaker 1: So get cracking on that.
+
+[00:06:53] Speaker 1: Run the fast ones first,
+
+[00:06:55] Speaker 1: because that gives you something to work with.
+
+[00:06:57] Speaker 1: It's a piece of string, right?
+
+[00:06:59] Speaker 1: You can run more and more experiments,
+
+[00:07:01] Speaker 1: but you don't necessarily have to do them all
+
+[00:07:04] Speaker 1: before you advance right up, yeah?
+
+[00:07:07] Speaker 1: So you won't get some results is the first primary,
+
+[00:07:10] Speaker 1: because that shows us if it's working, right?
+
+[00:07:14] Speaker 1: That's the key question.
+
+[00:07:16] Speaker 1: I mean, it's possible you might find some unusual things,
+
+[00:07:21] Speaker 1: like quant might be good at area under the rock curve
+
+[00:07:25] Speaker 1: with ridge regression and adding this might make it worse.
+
+[00:07:28] Speaker 1: Like we don't know, do you know what I mean?
+
+[00:07:30] Speaker 1: Since it's a time to get to a stage where you can run those,
+
+[00:07:33] Speaker 1: it shouldn't take too long
+
+[00:07:37] Speaker 1: and then start thinking about the results.
+
+[00:07:45] Speaker 1: I'm never sure of your timeframe,
+
+[00:07:46] Speaker 1: because I kind of lose out.
+
+[00:07:48] Speaker 1: When do you submit?
+
+[00:07:49] Speaker 1: When does it all happen?
+
+[00:07:55] Speaker 1: Okay, yeah, okay.
+
+[00:08:06] Speaker 1: Okay, yeah, so that was, yeah, I saw that email.
+
+[00:08:12] Speaker 1: Okay, you got a few weeks, that's fine.
+
+[00:08:16] Speaker 1: Yeah, well, so the tuning and the sensitivity analysis, right?
+
+[00:08:32] Speaker 1: So how important the parameters are,
+
+[00:08:34] Speaker 1: I can't even remember what parameters it has,
+
+[00:08:36] Speaker 1: so I'm not sure, it's not on the top of my head
+
+[00:08:40] Speaker 1: because I'm working on something else.
+
+[00:08:43] Speaker 1: That's one way of doing it, speed ups, right?
+
+[00:08:45] Speaker 1: Just ask chat GPT if there's anything to make it faster.
+
+[00:08:49] Speaker 1: Yeah, because it might well be.
+
+[00:08:53] Speaker 1: This is all using, I think it's all done in NumPy, right?
+
+[00:09:00] Speaker 1: It might be possible to have bespoke number implementation.
+
+[00:09:03] Speaker 1: So that's what I've done with a lot of them,
+
+[00:09:05] Speaker 1: is you hard code,
+
+[00:09:07] Speaker 1: because all of the operations are quite simple.
+
+[00:09:09] Speaker 1: So it might be worth just investigating.
+
+[00:09:12] Speaker 1: That would also make a technical contribution, right?
+
+[00:09:15] Speaker 1: And then you can talk about what you did.
+
+[00:09:17] Speaker 1: You say, all right, we made a number version
+
+[00:09:20] Speaker 1: of the exact same, show it's the same results,
+
+[00:09:24] Speaker 1: but make it faster.
+
+[00:09:27] Speaker 1: That's really useful, right?
+
+[00:09:31] Speaker 1: And again, you acknowledge the port,
+
+[00:09:34] Speaker 1: which had to be, but I really would use it
+
+[00:09:37] Speaker 1: because it's very good at this type of thing.
+
+[00:09:40] Speaker 1: That's why I've got to see you acknowledge that.
+
+[00:09:48] Speaker 1: Yeah, there'll be some disclaimer.
+
+[00:09:52] Speaker 1: You can, the thing to do if you do,
+
+[00:09:56] Speaker 1: is you kind of do it backwards, right?
+
+[00:09:58] Speaker 1: So you get it to optimize if it works,
+
+[00:10:00] Speaker 1: then you get it to explain what is done to you.
+
+[00:10:03] Speaker 1: And then you can write that up.
+
+[00:10:05] Speaker 1: And I think there's probably some disclaimer
+
+[00:10:12] Speaker 1: you put in the beginning, right, in the submission form.
+
+[00:10:16] Speaker 1: But that's the kind of way I work,
+
+[00:10:18] Speaker 1: is I get to try and make it better,
+
+[00:10:20] Speaker 1: and then I interrogate the hell out of it
+
+[00:10:22] Speaker 1: as to what is done, as to until I know what is done.
+
+[00:10:26] Speaker 1: So because a lot of the low-level things,
+
+[00:10:30] Speaker 1: really twiggy things are really hard to do yourself,
+
+[00:10:33] Speaker 1: like bit packing and all that stuff.
+
+[00:10:35] Speaker 1: And I'm like, I know I could do that,
+
+[00:10:37] Speaker 1: but it would take me three months
+
+[00:10:38] Speaker 1: and I'm not going to bother.
+
+[00:10:40] Speaker 1: But the key is to understand what is done, right?
+
+[00:10:42] Speaker 1: And not just go chat to your BT, you made it faster.
+
+[00:10:45] Speaker 1: That's like, well, we'll be good.
+
+[00:10:47] Speaker 1: No, no, no.
+
+[00:10:49] Speaker 1: Yeah, I wouldn't, not much,
+
+[00:11:10] Speaker 1: you just referenced you've used this tool
+
+[00:11:12] Speaker 1: to run experiments on the cluster.
+
+[00:11:13] Speaker 1: You don't really need to know how you run your experiments.
+
+[00:11:18] Speaker 1: Just explain what experiments have been run.
+
+[00:11:22] Speaker 1: And again, then you're likely to go say,
+
+[00:11:24] Speaker 1: well, how much of that code did you write?
+
+[00:11:25] Speaker 1: And you go, well, we use this tool
+
+[00:11:26] Speaker 1: that automates the experiments.
+
+[00:11:29] Speaker 1: But you've implemented this and you tweaked it for that.
+
+[00:11:33] Speaker 1: But I don't want to use detail on the code base.
+
+[00:11:41] Speaker 1: Yeah, that can definitely sort of be in the development stage.
+
+[00:11:45] Speaker 1: Evidence of that is useful and links to it.
+
+[00:11:47] Speaker 1: And, you know, of which I did add some comments, I think.
+
+[00:11:52] Speaker 1: I re-reviewed it two days ago.
+
+[00:11:55] Speaker 1: So have a look.
+
+[00:11:57] Speaker 1: Have you responded?
+
+[00:11:59] Speaker 1: Okay.
+
+[00:12:00] Speaker 1: I should check it again.
+
+[00:12:03] Speaker 1: Yeah, so definitely, I mean, you got all mentioned,
+
+[00:12:21] Speaker 1: you know, this is part of the contribution,
+
+[00:12:23] Speaker 1: right, so it's part of your technical,
+
+[00:12:24] Speaker 1: so it definitely figures.
+
+[00:12:27] Speaker 1: So that's worth expanding on.
+
+[00:12:30] Speaker 1: And then at that point is when you can talk
+
+[00:12:33] Speaker 1: about any changes you made to the code.
+
+[00:12:36] Speaker 1: Because the examiner will probably say,
+
+[00:12:37] Speaker 1: well, did you just put it straight in?
+
+[00:12:39] Speaker 1: You say, well, first we did for correctness.
+
+[00:12:41] Speaker 1: And then we looked at trying to improve it
+
+[00:12:44] Speaker 1: and better testing.
+
+[00:12:45] Speaker 1: All these things are useful, right?
+
+[00:12:47] Speaker 1: Thorough testing and, you know,
+
+[00:12:50] Speaker 1: better integration into AI on, et cetera, et cetera.
+
+[00:12:54] Speaker 1: Cycle length, compatibility, usability.
+
+[00:12:57] Speaker 1: All these things definitely should figure in your report.
+
+[00:13:17] Speaker 1: Nowadays, don't leave in AI prompts.
+
+[00:13:23] Speaker 1: Not expert-wide, that's something to tell people,
+
+[00:13:25] Speaker 1: you know, the way that you make it read in your word,
+
+[00:13:28] Speaker 1: I read it and rewrite it.
+
+[00:13:30] Speaker 1: If you are using it to help you, if not, fine too.
+
+[00:13:37] Speaker 1: Lack of focus, as I say, is the easiest way
+
+[00:13:40] Speaker 1: to overcome any random hurdles is to have a clear story
+
+[00:13:43] Speaker 1: of what you're doing and what you've achieved
+
+[00:13:46] Speaker 1: and to believe that yourself, right?
+
+[00:13:48] Speaker 1: And then that comes across.
+
+[00:13:51] Speaker 1: And again, I would say, as I said before,
+
+[00:13:54] Speaker 1: not assuming too much prior knowledge from examiners.
+
+[00:13:57] Speaker 1: See, I'm going to note what mark,
+
+[00:13:58] Speaker 1: I'm going to read it and go in
+
+[00:14:00] Speaker 1: and I'll probably know what mark I think it is
+
+[00:14:02] Speaker 1: based on your results and the writing, et cetera.
+
+[00:14:04] Speaker 1: They're going to come in and probably much colder.
+
+[00:14:09] Speaker 1: Do you know what I mean?
+
+[00:14:10] Speaker 1: Because I know exactly what you're doing.
+
+[00:14:11] Speaker 1: So my questions are going to be minimal
+
+[00:14:15] Speaker 1: because I kind of, I will ask some,
+
+[00:14:17] Speaker 1: but they will, the second mark will generally lead to it.
+
+[00:14:21] Speaker 1: So that's why it's worth contacting them.
+
+[00:14:26] Speaker 1: Yeah.
+
+[00:14:28] Speaker 1: Okay, good.
+
+[00:14:31] Speaker 1: Well, ping these always if you need any further duties.
+
+[00:14:39] Speaker 1: Yeah.
+
+[00:14:40] Speaker 1: So I'm away next week, as I say,
+
+[00:14:43] Speaker 1: from Thursday, the week after, we should meet.
+
+[00:14:46] Speaker 1: So we'll take stock then
+
+[00:14:47] Speaker 1: and then you're closer to the end game.
+
+[00:14:53] Speaker 1: So at some point, you know, there's always compromises.
+
+[00:14:55] Speaker 1: I would say, do all this stuff,
+
+[00:14:59] Speaker 1: but you won't do it all.
+
+[00:15:00] Speaker 1: It's your own.
+
+[00:15:02] Speaker 1: As I say, I'm always going to say,
+
+[00:15:04] Speaker 1: well, we can do that, we can do that.
+
+[00:15:05] Speaker 1: It doesn't mean it's a requirement.
+
+[00:15:07] Speaker 1: Yeah, you get as far as you can.
+
+[00:15:11] Speaker 1: Yeah, yeah.
+
+[00:15:12] Speaker 1: Okay, cheerio.
+
+[00:15:14] Speaker 1: Yeah, enjoy your weekend.
+
+[00:15:15] Speaker 1: Cheers, bye.
